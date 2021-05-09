@@ -2,7 +2,7 @@
   <div class="info container-fluid d-none d-md-block fixed-top">
     This tool allows users to ruin podcasts for themselves and loved ones.
     Source available at
-    <a href="https://github.com/andipalmur">github</a>.
+    <a href="https://github.com/andipalmur/grubdropper">github</a>.
   </div>
 
   <div class="container web d-none d-md-block d-flex">
